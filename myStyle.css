@@ -1,3 +1,34 @@
+/******************Question1*******************************/
+.redB
+{
+background: red;
+}
+.blueB
+{
+    background: blue;
+}
+
+.greenBwhite
+{
+    background: green;
+    color:white
+}
+
+.orangeBpink
+{
+    background:orange;
+    color:pink
+}
+
+/***********Question 3*****************************************************************/
+.greyWolf
+{
+background:gray;
+}
+
+/*************************************************************************/
+
+
 body {
     background: url('icon-background.png') no-repeat center center;
     background-attachment: fixed;
