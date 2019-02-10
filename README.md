@@ -1,3 +1,6 @@
+### Points: 2
+### KEY: Excellent work! Nice style tweaks! :-)
+
 # Introduction to jQuery Graded Classwork
 
 ## Use only jQuery to select elements, and jQuery 
